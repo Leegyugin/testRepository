@@ -20,7 +20,12 @@
 	<h4>리셋테스트 1</h4>
 	<p>테스트추가</p>
 	<p>이동후 테스트</p>	
+<<<<<<< HEAD
 	<p>집에서 일하기 싫어</p>	
 	<h3>user1이 추가한 내용</h3>
+=======
+	<p>집에서 일하기 싫어</p>
+	
+>>>>>>> branch 'master' of https://github.com/Leegyugin/testRepository.git
 </body>
 </html>
