@@ -17,5 +17,6 @@
 	<a href="#">링크추가!!!</a>
 	<a href="#">user2 추가</a>
 	<p>user01의 아무말 </p>
+	<a href="#">충돌날상황</a>
 </body>
 </html>
